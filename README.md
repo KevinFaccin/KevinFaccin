@@ -8,15 +8,3 @@
 </div>
 
 ##
-
-<div>
-  <a href = "mailto:k1.faccin@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/kevin-faccin-37b042101" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-    <a href="https://pt.stackoverflow.com/users/37480/kevin-faccin?tab=profile" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
-  </a>
-</div>
