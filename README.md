@@ -1,4 +1,4 @@
-Projetos privados para mais informações entrar em contato.
+Projetos privados, para mais informações entrar em contato.
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Kevin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
