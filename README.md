@@ -1,4 +1,4 @@
-Projetos privados, para mais informações entrar em contato.
+<a href="https://wakatime.com/@1dfca6a0-6e7c-404c-883b-d2df2a2afc7f"><img src="https://wakatime.com/badge/user/1dfca6a0-6e7c-404c-883b-d2df2a2afc7f.svg" alt="Total time coded since Jul 28 2017" /></a>
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Kevin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
